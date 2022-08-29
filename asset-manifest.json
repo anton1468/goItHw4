@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goItHw4/static/css/main.c4a6ec57.css",
+    "main.js": "/goItHw4/static/js/main.f2a20f86.js",
+    "index.html": "/goItHw4/index.html",
+    "main.c4a6ec57.css.map": "/goItHw4/static/css/main.c4a6ec57.css.map",
+    "main.f2a20f86.js.map": "/goItHw4/static/js/main.f2a20f86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a6ec57.css",
+    "static/js/main.f2a20f86.js"
+  ]
+}
